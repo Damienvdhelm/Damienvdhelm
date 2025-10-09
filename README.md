@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/Damienvdhelm/Damienvdhelm/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="left">- 👋 Hi, I’m @Damienvdhelm<br>- 👀 I’m interested in Laravel<br>- 🌱 I’m currently learning Laravel</p>
@@ -24,3 +22,5 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Damienvdhelm/Damienvdhelm/output/snake.svg" alt="Snake animation" />
