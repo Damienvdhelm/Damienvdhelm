@@ -10,13 +10,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Damienvdhelm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Damienvdhelm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Damienvdhelm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Damienvdhelm.Damienvdhelm&"  />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Damienvdhelm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Damienvdhelm.Damienvdhelm&"  />
 </div>
 
 ###
