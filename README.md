@@ -1,6 +1,6 @@
 ###
 
-<h2 align="left">- 👋 Hi, I’m @Damienvdhelm<br>- 👀 I’m interested in Laravel<br>- 🌱 I’m currently learning Laravel</h2>
+<h3 align="left">- 👋 Hi, I’m @Damienvdhelm<br>- 👀 I’m interested in Laravel<br>- 🌱 I’m currently learning Laravel</h3>
 
 ###
 
